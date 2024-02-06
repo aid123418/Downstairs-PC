@@ -28,3 +28,5 @@ with col2:
     st.image("images/Asylumroleplay.png")
     st.info("Asylum roleplay is a small game with a small comunity. However, it is a great game that is entertaining with its many teams. Some teams are paid, but it does not stop it being great. Try it and see!")
     st.link_button(url="https://www.roblox.com/games/4805760032/Asylum-Roleplay", label="Asylum Roleplay link")
+
+    print("hi")
